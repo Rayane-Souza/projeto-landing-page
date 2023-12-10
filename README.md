@@ -2,12 +2,14 @@
 
 ## ✅Sobre o Projeto
 
+[projetolandingpage.vercel.app](https://projeto-landing-page-iota.vercel.app/)
+
 Criação de uma landing page desenvolvida nas aulas da One Bit Code. Com o objetivo de promover e divulgar uma escola de música e incentivar a adesão de novos alunos.
 
 ## 🔗 Layout
-![Pagina](image.png)
+![Pagina](./imagens/image.png)
 
-![Pagina](image-1.png)
+![Pagina](./imagens/image-1.png)
 
 ## 💻 Tecnologias utilizadas
 ### Front End 
